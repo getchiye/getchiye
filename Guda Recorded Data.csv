@@ -1,0 +1,73 @@
+S. No,Local Name,Common Name,Scientific Name,Method if Identification,,Seas,GLT,WL,R,Total/seas,Total
+1,Zinjoro (,Olive baboon,Papio anubis,Visual ,Dry,,32,51,49,132,
+,,,,,Wet,,46,39,37,122,254
+2,Tota (,Vervet monkey,Cercopithecus aethiops,Visual  ,Dry,,0,34,34,68,
+,,,,,Wet,,11,20,29,60,128
+3,Gureza(,Colobus  monkey,Colobus guereza,visual,Dry,,8,46,39,93,173
+,,,,,Wet,,4,43,33,80,
+4,Asama (),Pig,Potamochoerus larvatus,Visual/faeces/ Hole,Dry,,2,5,4,11,
+,,,,,Wet,,0,2,1,3,14
+5,Midakuwa (,Grey duiker),Syluicapra grimmia,visual,Dry,,4,8,0,12,19
+,,,,,Wet,,4,3,0,7,
+6,Jart,Crested Porcupine,,Visual/spine,Dry,,0,5,0,5,13
+,,,Hystrix cristata,,Wet,,1,7,0,8,
+7,Jib,Spotted hyena,Corcuta corcuta,carcass/faeces ,Dry,,2,8,0,10,19
+,,,,,Wet,,4,3,2,9,
+8,Kebero (,Golden Jackal,Canis aureus,Sound/,Dry,,1,4,0,5,7
+,,,,,Wet,,1,1,0,2,
+9,Gara,Oribi  ,Ourebia ourebi,visual,Dry,,3,1,2,6,7
+,,,,,Wet,,0,1,0,1,
+10,Fugiyaaa,Marmot,Marmota monax,Hole ,Dry,,0,1,0,1,4
+,,,,,Wet,,1,1,1,3,
+11,Tirign (,African Civet,Civetticitis civetta,spine,Dry,,1,3,0,4,12
+,,,,,Wet,,3,5,0,8,
+12,Nebir),Leopard,Panthera pardus,carcass/faeces,Dry,,0,3,1,4,9
+,,,,,Wet,,0,3,2,5,
+13,Shur Mahiyaa,African Wildcat,Felis servestris,faeces,Dry,,0,1,0,1,8
+,,,,,Wet,,2,5,0,7,
+,,,                                Total,,Dry,,53,170,129,352,667
+,,,,,Wet,,77,133,105,315,
+,,,,,,,,,,,
+GLT Grass land with scattered Trees,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+Order,Family,Common Name,Scientific Name,Local Name,,,,,,,
+Artiodactyla,Suidae,Pig,Potamochoerus larvatus,Guduntha,,,,,,,
+,Bovidae,Grey duiker,Syluicapra grimmia,Geni’iya,,,,,,,
+,,Oribi  ,Ourebia ourebi,Gara,,,,,,,
+,,Marmot,Marmota monax,Fugiyaaa,,,,,,,
+Carnivora,Hyeaniadae,Spotted hyena,Corcuta corcuta,Babarqiya,,,,,,,
+,Canidae,Golden Jackal,Canis aureus,Worakana,,,,,,,
+,Viverridae,African Civet,Civetticitis civetta,Segiya,,,,,,,
+,Felidae,Leopard,Panthera pardus,Mahiya,,,,,,,
+,,African Wildcat,Felis servestris,Shur Mahiyaa,,,,,,,
+Primates,Cercopithecidae,Olive baboon,Papio anubis,Geleshuwa,,,,,,,
+,,Vervet monkey,Cercopithecus aethiops,Qariya,,,,,,,
+,,Colobus  monkey,Colobus guereza,Wonuwa,,,,,,,
+Rodentia,Hystricidae,Crested Porcupine,Hystrix cristata,Quxariya,,,,,,,
+"                                           4 Order, 8 families and 13 spp",,,,,,,,,,,
+,,,,,,,,,,,
+Habitat,No. of Species,Abundance,Diversity,Evenness,,,,,,,
+GLT,12,130,1.511,0.6079,,,,,,,
+WL,13,303,1.869,0.7286,,,,,,,
+R,8,234,1.327,0.6379,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+Scientific Name,                 Habitat,,,Total,,,,,,,
+,GLT,WL,R,,,,,,,,
+Potamochoerus larvatus,2,7,5,14,,,,,,,
+Syluicapra grimmia,8,11,0,19,,,,,,,
+Ourebia ourebi,3,2,2,7,,,,,,,
+Marmota monax,1,2,1,4,,,,,,,
+Corcuta corcuta,6,11,2,19,,,,,,,
+Canis aureus,2,5,0,7,,,,,,,
+Civetticitis civetta,4,8,0,12,,,,,,,
+Panthera pardus,0,6,3,9,,,,,,,
+Felis servestris,2,6,0,8,,,,,,,
+Papio anubis,78,90,86,254,,,,,,,
+Cercopithecus aethiops,11,54,63,128,,,,,,,
+Colobus guereza,12,89,72,173,,,,,,,
+Hystrix cristata,1,12,0,13,,,,,,,
+Total,130,303,234,667,,,,,,,
